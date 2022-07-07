@@ -1,0 +1,38 @@
+body{
+  background-color: #FDF6EC;
+
+
+font-family: 'PT Sans Narrow', sans-serif;
+
+
+}
+header li{
+  border: solid black 2px;
+
+  padding: 0 4px 0 4px;
+  background-color: #F3E9DD;
+  color: black;
+
+
+
+  display: inline-block;
+  word-spacing: 5px;
+
+}
+h1
+{
+  width: auto;
+  color: #363062;
+}
+h3
+{
+  text-align: center;
+  width: auto;
+  color: #363062
+
+
+}
+img{
+display: block;
+
+}
